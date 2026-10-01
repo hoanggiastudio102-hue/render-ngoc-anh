@@ -4,9 +4,9 @@ Bộ cài Windows và Mac dùng tài khoản, kho tư liệu và phiên Google F
 
 ## Tải bộ cài
 
-- [Windows 64-bit](../../releases/latest/download/VIDEO-GLOBAL-WINDOWS-DOC-LAP-20261001-r3.zip) — Intel/AMD, có sẵn Python, FFmpeg và Node.js.
-- [Mac Apple Silicon](../../releases/latest/download/VIDEO-GLOBAL-MAC-DOC-LAP-20261001-r3.zip) — ARM64, cần chạy `setup.sh` lần đầu.
-- [Mã kiểm tra SHA-256](../../releases/latest/download/SHA256SUMS.txt).
+- [Windows 64-bit](https://github.com/hoanggiastudio102-hue/render-ngoc-anh/releases/latest/download/VIDEO-GLOBAL-WINDOWS-DOC-LAP-20261001-r3.zip) — Intel/AMD, có sẵn Python, FFmpeg và Node.js.
+- [Mac Apple Silicon](https://github.com/hoanggiastudio102-hue/render-ngoc-anh/releases/latest/download/VIDEO-GLOBAL-MAC-DOC-LAP-20261001-r3.zip) — ARM64, cần chạy `setup.sh` lần đầu.
+- [Mã kiểm tra SHA-256](https://github.com/hoanggiastudio102-hue/render-ngoc-anh/releases/latest/download/SHA256SUMS.txt).
 
 Giải nén toàn bộ ZIP vào một thư mục cố định trước khi chạy. Không chạy trực tiếp trong ZIP.
 
