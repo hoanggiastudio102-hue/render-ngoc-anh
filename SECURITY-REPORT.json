@@ -1,0 +1,12 @@
+{
+  "message": "Publish independent installation only; no production state or project history",
+  "same_frontend_and_render_code": true,
+  "company_credentials_included": false,
+  "company_url_included": false,
+  "flow_chrome_profile_included": false,
+  "channel_catalogue": "generic_defaults_only",
+  "windows_first_run_and_gpu_cpu_exports_tested": true,
+  "windows_flow_mp4_validation_article_save_and_column_receipt_tested": true,
+  "native_mac_hardware_tested": false,
+  "recipient_google_flow_generation_tested": false
+}
