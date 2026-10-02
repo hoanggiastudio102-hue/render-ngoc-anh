@@ -1,12 +1,22 @@
 {
-  "message": "Publish independent installation only; no production state or project history",
-  "same_frontend_and_render_code": true,
-  "company_credentials_included": false,
-  "company_url_included": false,
-  "flow_chrome_profile_included": false,
-  "channel_catalogue": "generic_defaults_only",
-  "windows_first_run_and_gpu_cpu_exports_tested": true,
-  "windows_flow_mp4_validation_article_save_and_column_receipt_tested": true,
-  "native_mac_hardware_tested": false,
-  "recipient_google_flow_generation_tested": false
+  "ok": true,
+  "flow_removed": true,
+  "media_columns": 2,
+  "private_state_included": false,
+  "company_urls_included": false,
+  "owner_accounts_included": false,
+  "browser_profiles_included": false,
+  "native_mac_test": false,
+  "packages": [
+    {
+      "name": "VIDEO-GLOBAL-WINDOWS-DOC-LAP-20261002-r2.zip",
+      "bytes": 160532274,
+      "sha256": "c0573f28000e7fba24e230afc013ca55c4c57bc156fbd38483fb39937a8123ed"
+    },
+    {
+      "name": "VIDEO-GLOBAL-MAC-DOC-LAP-20261002-r2.zip",
+      "bytes": 328629,
+      "sha256": "24d0403f5b57c3bed99b59c20d0d02ced3e75288ff2070dfddd5cf3ff06a5c53"
+    }
+  ]
 }
